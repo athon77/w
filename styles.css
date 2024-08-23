@@ -1,0 +1,5 @@
+.interactive-img {
+    width: 200px;
+    transition: width 0.5s;
+    margin: 10px;
+}
